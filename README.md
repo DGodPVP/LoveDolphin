@@ -1,2 +1,25 @@
-# DolphinLove
-A repository used to host MineCraft Hacked Configs For Some MineCraft Hacked Clients.
+# 概览
+
+### 什么是Dolphin？
+A repository used to host MineCraft Hacked Configs For Some MineCraft Hacked Clients.<br>
+
+### 如何加入我们？
+Dolphin 共有 15 个群：
+
+* [**A群**](link) (341166297)*配置发布*
+* [**B群**](link) (643803765)*配置发布*
+* [**C群**](link) (758228154)*交流*
+* [**E群**](link) (567135764)*四叶草服务器配置发布*
+* [**H群**](link) (570265651)*四叶草服务器配置发布*
+* [**J群**](link) (741342182)*交流*
+* [**N群**](link) (480325554)*配置发布*
+* [**O群**](link) (916285509)*交流*
+* [**P群**](link) (767014505)*网易区综合*
+* [**Q群**](link) (543563935)*绿色游戏区*
+* [**R群**](link) (607605516)*网易区综合*
+* [**S群**](link) (280317867)*四叶草服务器配置发布*
+* [**T群**](link) (154045540)*配置发布*
+* [**U群**](link) (613597405)*配置发布*
+* [**Z群**](link) (715897040)*综合*
+
+ ——最后编辑于2023年8月14日
