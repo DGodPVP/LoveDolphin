@@ -1,7 +1,7 @@
 # 概览
 
 ### 什么是Dolphin？
-A repository used to host MineCraft Hacked Configs For Some MineCraft Hacked Clients.<br>
+一个 MineCraft Hack Client/Configs 制作与分享组织<br>
 
 ### 如何加入我们？
 Dolphin 共有 15 个群：
